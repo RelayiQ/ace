@@ -1,0 +1,8 @@
+{
+  "name": "Alex",
+  "age": 26,
+  "role": "{{role}}",
+  "tag": {{var}},
+  "tags": [{{var1}}, {{var2}}],
+  "description": "My name is {{firstName}}"
+}
